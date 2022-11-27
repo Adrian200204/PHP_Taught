@@ -1,0 +1,58 @@
+
+.landing-page
+{
+    background-color: rgb(249, 220, 255);
+    display: flex;
+    width: 100%;
+}
+
+.landing-title{
+    text-transform: capitalize;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 10px 20px;
+}
+
+.landing-text
+{
+    margin: 10px 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.landing-left
+{
+    margin:50px 2px;
+    width: 50%;
+}
+.landing-right
+{
+    width: 50%;
+}
+.landing-right img
+{
+    height: 100px;
+    width:auto;
+}
+
+.login
+{
+    margin: 10px 40%;
+}
+
+.bg-all
+{
+    background:rgb(249, 220, 255) ;
+}
+
+.form-container
+{
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    margin: 70px 35%;
+    padding-top: 5px;
+    height: 400px;
+    width: 400px;
+}
